@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fuller93
 - 🌱 I’m currently learning WebFlow!
-- 📫 My website: georgefuller.co.uk
+- 📫 My website: <a target="_blank" href="https://georgefuller.co.uk/">georgefuller.co.uk</a>
 - 🏸 Interests: Playing badminton, enjoying craft beer, learning new things, reading non-fiction & playing video games
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: It is impossible for most people to lick their own elbow. (You tried it didn't you?!)
