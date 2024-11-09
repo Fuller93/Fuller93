@@ -1,9 +1,4 @@
 - 👋 Hi, I’m @Fuller93
-- 🌱 I’m currently learning WebFlow!
-- 📫 My website: <a target="_blank" href="https://georgefuller.co.uk/">georgefuller.co.uk</a>
-- 🏸 Interests: Playing badminton, enjoying craft beer, learning new things, reading non-fiction & playing video games
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: It is impossible for most people to lick their own elbow. (You tried it didn't you?!)
 
 <!---
 Fuller93/Fuller93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
