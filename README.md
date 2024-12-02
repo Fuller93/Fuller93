@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fuller93
 - 🌱 I'm currently learning WebFlow.
 - 💼 I work at Evil Donkey as a Web Developer.
-- 💡 My interests include: playing badminton, trying new food, seeing friends for a craft beer & learning new things!
+- 💡 My interests include: playing badminton, trying new food, craft beer & learning new things!
 
 <!---
 Fuller93/Fuller93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
