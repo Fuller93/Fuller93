@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fuller93
-- 🌱 I'm currently learning React & NextJS.
+- 🌱 I'm currently learning React.
 - 💼 I work at Evil Donkey as a Web Developer.
 - 💡 My interests include: playing badminton, good music, trying new food, craft beer & learning new things!
 
